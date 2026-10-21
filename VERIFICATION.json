@@ -35,8 +35,13 @@
     },
     {
       "path": ".agents/skills/child-practice/SKILL.md",
-      "bytes": 5185,
-      "sha256": "d2e586d5db48b4ed87bb31fca0d513512a4f67aba87e18cfb02e4af2dc810500"
+      "bytes": 5355,
+      "sha256": "e7368ee0c88b69be34b0245daa2ff391ac44af94016ce4681bbb45164e02a108"
+    },
+    {
+      "path": ".agents/skills/child-practice/agents/openai.yaml",
+      "bytes": 311,
+      "sha256": "a86fdc8426a66d7a04ceb9bdd0910b536b0ac728925aa680b17ee401641c9867"
     },
     {
       "path": ".agents/skills/child-practice/assets/fonts/LearningSerifSC.ttf",
@@ -85,8 +90,8 @@
     },
     {
       "path": "AGENTS.md",
-      "bytes": 372,
-      "sha256": "f63877f3eb49f3911889f6c91efde64cc5eb752f5eefd19062b9096b180fe7b2"
+      "bytes": 445,
+      "sha256": "0cc4f904a6a20506ba9019d44b2e36ea956404ce5e17ac1cf1972e872d3f3972"
     },
     {
       "path": "LICENSE",
@@ -95,8 +100,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4368,
-      "sha256": "a9d6cc0a30c0ce73c9923b7a0d296835a2ca5d8bc98036f70cdc730ad24744ca"
+      "bytes": 5585,
+      "sha256": "60c983f9598bdf1cef60e9ba3414ebcb7127b80f5c9629f7a2b3ddf0ba1a9c11"
     },
     {
       "path": "THIRD_PARTY_NOTICES.md",
@@ -115,8 +120,9 @@
     },
     {
       "path": "家长启动说明.md",
-      "bytes": 2402,
-      "sha256": "f0ea1e3e3545f581264e5c2e080f0a87e78c0ea17581ebcc27c07743f64c5496"
+      "bytes": 2440,
+      "sha256": "7ea26628a6783532a7aa95fb79709d306072104ba1d9d0b79898a0e44e9a5efa"
     }
-  ]
+  ],
+  "presentation_update": "Chinese display name 学习助手; English identifier child-practice retained; documentation and UI metadata only, tested runtime unchanged"
 }
