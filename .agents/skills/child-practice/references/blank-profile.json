@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "child_id": null,
+  "label": null,
+  "grade": null,
+  "progress": {},
+  "settings": {},
+  "issues": [],
+  "feedback": [],
+  "active_focus": [],
+  "writing_history": [],
+  "evidence_boundary": "初始化为空；出卷不等于已完成，写过不等于掌握，家长判断与孩子实际答案分开。"
+}

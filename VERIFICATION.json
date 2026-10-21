@@ -1,0 +1,122 @@
+{
+  "version": "0.1.1",
+  "source": "extracted package; tests directory removed before installation",
+  "install": "install.py in fresh venv; doctor passed",
+  "fixture_imported": false,
+  "first_pages": 2,
+  "second_pages": 2,
+  "feedback": "3 active observations + 1 independent-correct observation with no next_requirement",
+  "positive_feedback_visible": true,
+  "new_process_continuation": true,
+  "other_child_isolated": true,
+  "old_pdf_unchanged": true,
+  "unsupported_copies_refused": true,
+  "not_proven": [
+    "another AI model or real parent end-to-end trial",
+    "Windows/Linux installation",
+    "Doubao chat compatibility"
+  ],
+  "state": "prepublication_validation_record",
+  "platform_tested": "macOS / Python 3.9.6 / clean venv",
+  "privacy_check": "All 17 distributable files scanned for named family members, private local paths and common secret patterns; no matching private data found. Font metadata also inspected.",
+  "font": "Bundled renamed static Learning Serif SC with OFL license; no system font dependency",
+  "pdf_check": "Both new 2-page question PDFs and separate 1-page answer PDFs rendered; Chinese, pinyin, writing grids and answers visually checked",
+  "fixes": [
+    "context exposes last 3 feedback records including independent-correct observations without next_requirement",
+    "init accepts only 1-5 copies matching renderer"
+  ],
+  "scope": "New synthetic input authored by this AI through public CLI. No fixture import; not another AI host or actual parent trial.",
+  "license_status": "MIT for code and original documentation; SIL OFL 1.1 for bundled font",
+  "files": [
+    {
+      "path": ".agents/skills/child-practice/LICENSE",
+      "bytes": 1077,
+      "sha256": "89cd825cc5b4457dc338a270e960c6b5b0d64ca276d42e265c1eac20a4f389a4"
+    },
+    {
+      "path": ".agents/skills/child-practice/SKILL.md",
+      "bytes": 5185,
+      "sha256": "d2e586d5db48b4ed87bb31fca0d513512a4f67aba87e18cfb02e4af2dc810500"
+    },
+    {
+      "path": ".agents/skills/child-practice/assets/fonts/LearningSerifSC.ttf",
+      "bytes": 14851696,
+      "sha256": "310f3af4b2fbd7c38e6109b4b2412a10aa093e7e21dfb61648682bb1badde133"
+    },
+    {
+      "path": ".agents/skills/child-practice/assets/fonts/OFL.txt",
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "path": ".agents/skills/child-practice/references/blank-profile.json",
+      "bytes": 335,
+      "sha256": "02eab26feea1efcc24561989005df20c00292014fbb1cbbe308b9aac79796c09"
+    },
+    {
+      "path": ".agents/skills/child-practice/references/formats.md",
+      "bytes": 3910,
+      "sha256": "044838f73c1746a028cacd89f212589d84583085c82321ab0c3554a80a4482f3"
+    },
+    {
+      "path": ".agents/skills/child-practice/references/install.md",
+      "bytes": 981,
+      "sha256": "658c268ed53d51b5b95b377aa7275fc8cf83a23b9758bcfa998a4972bd156f7c"
+    },
+    {
+      "path": ".agents/skills/child-practice/requirements.txt",
+      "bytes": 31,
+      "sha256": "51c729047bc7f52fe34abe78ef15ce4802a5ecbced812094fa3d3ef0594eb2d1"
+    },
+    {
+      "path": ".agents/skills/child-practice/scripts/practice.py",
+      "bytes": 13386,
+      "sha256": "d033c7cc5d2f0fad96a4fd126ebd74f2967b3f731b0bb272b30e2b0e578b7d93"
+    },
+    {
+      "path": ".agents/skills/child-practice/scripts/render.py",
+      "bytes": 8302,
+      "sha256": "3ee186c5e3b26366613fc71eaa319c921ccd63041d6a618d631df7030357a459"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 70,
+      "sha256": "3b1e38d4079c1ad52e17991f2ebaacf5a62626c7db3646296b9700fd665464e8"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 372,
+      "sha256": "f63877f3eb49f3911889f6c91efde64cc5eb752f5eefd19062b9096b180fe7b2"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1077,
+      "sha256": "89cd825cc5b4457dc338a270e960c6b5b0d64ca276d42e265c1eac20a4f389a4"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4368,
+      "sha256": "a9d6cc0a30c0ce73c9923b7a0d296835a2ca5d8bc98036f70cdc730ad24744ca"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 750,
+      "sha256": "eedd10775b483ddecb8c16aa1fc9119ee6b49fc08d6a7a685827d4c72e01abd5"
+    },
+    {
+      "path": "install.py",
+      "bytes": 918,
+      "sha256": "5bf71ffbe1d0ef30402aa6821b173e32005e6f33638097f1769d5d7b6a30067a"
+    },
+    {
+      "path": "tests/smoke.py",
+      "bytes": 12585,
+      "sha256": "087f0fe950aa19433a74fd101a687c9c3256298b78714ca89af0bb467f0ff4ad"
+    },
+    {
+      "path": "家长启动说明.md",
+      "bytes": 2402,
+      "sha256": "f0ea1e3e3545f581264e5c2e080f0a87e78c0ea17581ebcc27c07743f64c5496"
+    }
+  ]
+}

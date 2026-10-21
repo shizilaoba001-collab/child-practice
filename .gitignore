@@ -1,0 +1,8 @@
+.venv/
+user-data/
+test-run*/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
