@@ -18,4 +18,4 @@ if not python.is_file():
 skill=root/'.agents/skills/child-practice'
 subprocess.run([str(python),'-m','pip','install','-r',str(skill/'requirements.txt')],check=True)
 subprocess.run([str(python),str(skill/'scripts/practice.py'),'doctor'],check=True)
-print('本地依赖就绪。请回AI对话使用child-practice建档；没有替你上传或分享任何资料。')
+print((skill/'references/welcome.md').read_text(encoding='utf-8'))

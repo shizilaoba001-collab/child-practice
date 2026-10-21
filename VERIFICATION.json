@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "source": "extracted package; tests directory removed before installation",
   "install": "install.py in fresh venv; doctor passed",
   "fixture_imported": false,
@@ -35,8 +35,8 @@
     },
     {
       "path": ".agents/skills/child-practice/SKILL.md",
-      "bytes": 5381,
-      "sha256": "caaf715ce5c498cfd86d0cb1580c0ae8ebfb8c7bd227c947e63905c543ac38e4"
+      "bytes": 5716,
+      "sha256": "d850b2f6ff779e0048def6856e3fb28b4f76e3e283bad3f28578b6374c37a273"
     },
     {
       "path": ".agents/skills/child-practice/agents/openai.yaml",
@@ -65,8 +65,13 @@
     },
     {
       "path": ".agents/skills/child-practice/references/install.md",
-      "bytes": 981,
-      "sha256": "658c268ed53d51b5b95b377aa7275fc8cf83a23b9758bcfa998a4972bd156f7c"
+      "bytes": 1233,
+      "sha256": "15c838cdfff3a5c3f7ecb8e4801e5c0823890c435c748515f9a8ba8584dd68d4"
+    },
+    {
+      "path": ".agents/skills/child-practice/references/welcome.md",
+      "bytes": 927,
+      "sha256": "6932ee637c015d45816da0a5734c5b8a4690713500eba8802943ece4aef2926d"
     },
     {
       "path": ".agents/skills/child-practice/requirements.txt",
@@ -90,8 +95,8 @@
     },
     {
       "path": "AGENTS.md",
-      "bytes": 445,
-      "sha256": "0cc4f904a6a20506ba9019d44b2e36ea956404ce5e17ac1cf1972e872d3f3972"
+      "bytes": 656,
+      "sha256": "d2861fc1f0cf9c2de37da83d5babf7a813ed7a7e13e1f5cef21163825dbb6877"
     },
     {
       "path": "LICENSE",
@@ -100,8 +105,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5689,
-      "sha256": "d61d04061f6c4be12a19287cd9d9d3d1b9563e41af9f9107e060019648f80484"
+      "bytes": 6675,
+      "sha256": "50fbab47786d006f62ea800bbd6157e3b3e771c342d3e1a50bdd1d57880dfdb7"
     },
     {
       "path": "THIRD_PARTY_NOTICES.md",
@@ -110,8 +115,8 @@
     },
     {
       "path": "install.py",
-      "bytes": 918,
-      "sha256": "5bf71ffbe1d0ef30402aa6821b173e32005e6f33638097f1769d5d7b6a30067a"
+      "bytes": 869,
+      "sha256": "7a41b2bef7dbe4e9bac26b62fdcde001aaed1d5205b6c6a7e6622eaf2ddd80a4"
     },
     {
       "path": "tests/smoke.py",
@@ -120,10 +125,10 @@
     },
     {
       "path": "家长启动说明.md",
-      "bytes": 2440,
-      "sha256": "7ea26628a6783532a7aa95fb79709d306072104ba1d9d0b79898a0e44e9a5efa"
+      "bytes": 2083,
+      "sha256": "fe58a2756323da95d7c639e6934e1a223f28c9503dfcd2ebb2e3b971c9e5c734"
     }
   ],
-  "presentation_update": "Chinese display name 学习助手; English identifier child-practice retained; documentation and UI metadata only, tested runtime unchanged",
+  "presentation_update": "Proactive welcome and three questions after successful installation; PDF and learner runtime unchanged from tested 0.1.1",
   "author": "狮子老爸"
 }
