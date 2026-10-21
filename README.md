@@ -1,5 +1,7 @@
 # 学习助手（child-practice）
 
+**作者：狮子老爸** · GitHub：[@shizilaoba001-collab](https://github.com/shizilaoba001-collab)
+
 根据孩子的学习进度和实际错题，制作下一套可打印的语文数学练习。**公开开源 · MIT许可证 · 版本0.1.1**
 
 给能读写本地文件、运行Python且支持Skill的AI工具使用。由AI问必要信息、设计新题，脚本保存本地学习档案并生成独立题目/答案PDF。无需维护者替每个家庭出卷。

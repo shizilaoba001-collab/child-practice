@@ -30,13 +30,13 @@
   "files": [
     {
       "path": ".agents/skills/child-practice/LICENSE",
-      "bytes": 1077,
-      "sha256": "89cd825cc5b4457dc338a270e960c6b5b0d64ca276d42e265c1eac20a4f389a4"
+      "bytes": 1092,
+      "sha256": "8b97d9478194e1d5f7fb5cebc313f9f783904365855b92f69e50298005855af6"
     },
     {
       "path": ".agents/skills/child-practice/SKILL.md",
-      "bytes": 5355,
-      "sha256": "e7368ee0c88b69be34b0245daa2ff391ac44af94016ce4681bbb45164e02a108"
+      "bytes": 5381,
+      "sha256": "caaf715ce5c498cfd86d0cb1580c0ae8ebfb8c7bd227c947e63905c543ac38e4"
     },
     {
       "path": ".agents/skills/child-practice/agents/openai.yaml",
@@ -95,13 +95,13 @@
     },
     {
       "path": "LICENSE",
-      "bytes": 1077,
-      "sha256": "89cd825cc5b4457dc338a270e960c6b5b0d64ca276d42e265c1eac20a4f389a4"
+      "bytes": 1092,
+      "sha256": "8b97d9478194e1d5f7fb5cebc313f9f783904365855b92f69e50298005855af6"
     },
     {
       "path": "README.md",
-      "bytes": 5585,
-      "sha256": "60c983f9598bdf1cef60e9ba3414ebcb7127b80f5c9629f7a2b3ddf0ba1a9c11"
+      "bytes": 5689,
+      "sha256": "d61d04061f6c4be12a19287cd9d9d3d1b9563e41af9f9107e060019648f80484"
     },
     {
       "path": "THIRD_PARTY_NOTICES.md",
@@ -124,5 +124,6 @@
       "sha256": "7ea26628a6783532a7aa95fb79709d306072104ba1d9d0b79898a0e44e9a5efa"
     }
   ],
-  "presentation_update": "Chinese display name 学习助手; English identifier child-practice retained; documentation and UI metadata only, tested runtime unchanged"
+  "presentation_update": "Chinese display name 学习助手; English identifier child-practice retained; documentation and UI metadata only, tested runtime unchanged",
+  "author": "狮子老爸"
 }
